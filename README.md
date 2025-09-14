@@ -21,7 +21,8 @@ This project implements a **data engineering pipeline** that integrates **live s
    git clone https://github.com/YourUsername/stock-pipeline.git
    cd stock-pipeline
 
-   2. Install dependencies:
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
    
