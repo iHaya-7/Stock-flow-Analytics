@@ -15,13 +15,5 @@ This project implements a **data engineering pipeline** that integrates **live s
 - **SQL Database** (e.g., PostgreSQL / MySQL / SQLite)  
 - **ETL & ELT Data Engineering Concepts**  
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/stock-market-pipeline.git
 
-   pip install -r requirements.txt
-ALPHA_VANTAGE_API_KEY=your_api_key
-
-python pipeline.py
    
